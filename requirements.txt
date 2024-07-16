@@ -13,5 +13,5 @@ faiss-cpu
 pypdf
 langchain-core
 werkzeug
-dotenv
+python-dotenv~=1.0.1
 streamlit~=1.36.0
